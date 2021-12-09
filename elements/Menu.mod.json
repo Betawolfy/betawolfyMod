@@ -50,12 +50,12 @@
       {
         "type": "label",
         "data": {
-          "text": "c une version de test ptn! ",
+          "text": "cliquez sur le bouton pour voir",
           "color": {
             "value": -3355444,
             "falpha": 0.0
           },
-          "name": "c une version de test ptn! ",
+          "name": "cliquez sur le bouton pour voir",
           "x": 129,
           "y": 148
         }
@@ -63,12 +63,12 @@
       {
         "type": "label",
         "data": {
-          "text": "y'a rien d'autre pour le moment",
+          "text": "les mises à jours.",
           "color": {
             "value": -3355444,
             "falpha": 0.0
           },
-          "name": "y'a rien d'autre pour le moment",
+          "name": "les mises à jours.",
           "x": 129,
           "y": 160
         }
@@ -97,6 +97,20 @@
           "name": "retour à Wolfy",
           "x": 131,
           "y": 108
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "mise à jour",
+          "onClick": {
+            "name": "RedirectMiseAJour"
+          },
+          "width": 80,
+          "height": 20,
+          "name": "mise à jour",
+          "x": 168,
+          "y": 123
         }
       }
     ],

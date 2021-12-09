@@ -60,8 +60,8 @@ public class MenuGuiWindow extends ContainerScreen<MenuGui.GuiContainerMod> {
 	@Override
 	protected void drawGuiContainerForegroundLayer(MatrixStack ms, int mouseX, int mouseY) {
 		this.font.drawString(ms, "Wolfy mod version alpha1", 30, 6, -26215);
-		this.font.drawString(ms, "c une version de test ptn! ", 3, 111, -3355444);
-		this.font.drawString(ms, "y'a rien d'autre pour le moment", 3, 123, -3355444);
+		this.font.drawString(ms, "cliquez sur le bouton pour voir", 3, 111, -3355444);
+		this.font.drawString(ms, "les mises \u00E0 jours.", 3, 123, -3355444);
 		this.font.drawString(ms, "Testez vos minerais et faites vos", 6, 60, -3355444);
 		this.font.drawString(ms, "retour \u00E0 Wolfy", 5, 71, -3355444);
 	}
@@ -80,6 +80,12 @@ public class MenuGuiWindow extends ContainerScreen<MenuGui.GuiContainerMod> {
 			if (true) {
 				BetamodAlphaMod.PACKET_HANDLER.sendToServer(new MenuGui.ButtonPressedMessage(0, x, y, z));
 				MenuGui.handleButtonAction(entity, 0, x, y, z);
+			}
+		}));
+		this.addButton(new Button(this.guiLeft + 42, this.guiTop + 86, 80, 20, new StringTextComponent("mise à jour"), e -> {
+			if (true) {
+				BetamodAlphaMod.PACKET_HANDLER.sendToServer(new MenuGui.ButtonPressedMessage(1, x, y, z));
+				MenuGui.handleButtonAction(entity, 1, x, y, z);
 			}
 		}));
 	}

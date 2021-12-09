@@ -740,6 +740,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bowl_of_riz"
+    },
+    {
+      "name": "RedirectMiseAJour",
+      "type": "procedure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redirect_mise_a_jour",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],

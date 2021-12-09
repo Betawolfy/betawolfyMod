@@ -1,6 +1,7 @@
 
 package net.mcreator.betamodalpha.gui;
 
+import net.mcreator.betamodalpha.procedures.RedirectMiseAJourProcedure;
 import net.mcreator.betamodalpha.procedures.KillyourselfProcedure;
 import net.mcreator.betamodalpha.BetamodAlphaModElements;
 import net.mcreator.betamodalpha.BetamodAlphaMod;
@@ -263,6 +264,13 @@ public class MenuGui extends BetamodAlphaModElements.ModElement {
 				$_dependencies.put("z", z);
 				$_dependencies.put("world", world);
 				KillyourselfProcedure.executeProcedure($_dependencies);
+			}
+		}
+		if (buttonID == 1) {
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				RedirectMiseAJourProcedure.executeProcedure($_dependencies);
 			}
 		}
 	}
