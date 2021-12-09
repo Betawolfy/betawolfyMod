@@ -3,7 +3,6 @@ package net.mcreator.betamodalpha.block;
 
 import net.minecraft.block.material.Material;
 
-import net.mcreator.betamodalpha.itemgroup.WolfycraftItemGroup;
 import net.mcreator.betamodalpha.item.HainuiumIngotItem;
 import net.mcreator.betamodalpha.BetamodAlphaModElements;
 
