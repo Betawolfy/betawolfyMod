@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="betamod_alpha"
+version="1.0.0"
+displayName="Betamod alpha"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="VincentMARAIS, MCreator"
+
+[[dependencies.betamod_alpha]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

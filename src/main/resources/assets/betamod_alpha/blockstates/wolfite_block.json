@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "betamod_alpha:block/wolfite_block"
+    }
+  }
+}

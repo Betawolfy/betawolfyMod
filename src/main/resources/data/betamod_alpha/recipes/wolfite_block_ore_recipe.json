@@ -1,0 +1,13 @@
+{
+  "group": "betamod_alpha",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betamod_alpha:wolfite_block"
+    }
+  ],
+  "result": {
+    "item": "betamod_alpha:wolfite_ingot",
+    "count": 9
+  }
+}

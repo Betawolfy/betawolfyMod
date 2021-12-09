@@ -1,0 +1,27 @@
+{
+  "group": "betamod_alpha",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "1": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "betamod_alpha:wolfite_hoe",
+    "count": 1
+  }
+}

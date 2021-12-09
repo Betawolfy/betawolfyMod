@@ -1,0 +1,42 @@
+{
+  "group": "betamod_alpha",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "1": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "2": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "3": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "4": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "5": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "6": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "7": {
+      "item": "betamod_alpha:wolfite_ingot"
+    },
+    "8": {
+      "item": "betamod_alpha:wolfite_ingot"
+    }
+  },
+  "result": {
+    "item": "betamod_alpha:wolfite_block",
+    "count": 1
+  }
+}

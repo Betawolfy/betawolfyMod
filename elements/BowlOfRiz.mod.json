@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "unbolavecquelquechosedeblancdedans",
+    "customModelName": "Normal",
+    "name": "Bowl Of Riz",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "vous êtes sur que ce n'est pas autre chose?  comme..."
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 7,
+    "saturation": 8.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

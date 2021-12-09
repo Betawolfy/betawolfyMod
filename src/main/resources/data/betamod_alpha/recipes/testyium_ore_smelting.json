@@ -1,0 +1,12 @@
+{
+  "group": "betamod_alpha",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "betamod_alpha:testyium_ore"
+  },
+  "result": {
+    "item": "betamod_alpha:testyium_dust"
+  }
+}

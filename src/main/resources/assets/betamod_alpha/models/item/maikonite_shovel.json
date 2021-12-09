@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "betamod_alpha:items/maikonite_shovel"
+  }
+}

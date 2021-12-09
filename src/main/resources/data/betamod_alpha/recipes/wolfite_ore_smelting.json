@@ -1,0 +1,12 @@
+{
+  "group": "betamod_alpha",
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "betamod_alpha:wolfite_ore"
+  },
+  "result": {
+    "item": "betamod_alpha:wolfite_ingot"
+  }
+}

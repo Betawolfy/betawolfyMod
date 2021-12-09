@@ -1,0 +1,16 @@
+{
+  "group": "betamod_alpha",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betamod_alpha:testyium_dust"
+    },
+    {
+      "item": "betamod_alpha:testyium_dust"
+    }
+  ],
+  "result": {
+    "item": "betamod_alpha:testyium_ingot",
+    "count": 1
+  }
+}
