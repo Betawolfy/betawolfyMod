@@ -1,4 +1,6 @@
-# Betawolfy mod
+<img src="https://imgur.com/rPQUiiX">
+
+# betawolfy's mod
 
 ## un mod pour un serveur entre potes
 
