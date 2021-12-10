@@ -1,9 +1,25 @@
 package net.mcreator.betamodalpha.procedures;
 
+import net.minecraftforge.fml.network.NetworkHooks;
+
+import net.minecraft.world.IWorld;
+import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.util.text.ITextComponent;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.network.PacketBuffer;
+import net.minecraft.inventory.container.INamedContainerProvider;
+import net.minecraft.inventory.container.Container;
+import net.minecraft.entity.player.ServerPlayerEntity;
+import net.minecraft.entity.player.PlayerInventory;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.entity.Entity;
+
 import net.mcreator.betamodalpha.gui.MenuGui;
 import net.mcreator.betamodalpha.BetamodAlphaMod;
 
 import java.util.Map;
+
+import io.netty.buffer.Unpooled;
 
 public class OpenMenu1Procedure {
 	public static void executeProcedure(Map<String, Object> dependencies) {

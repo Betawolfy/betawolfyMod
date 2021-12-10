@@ -1,6 +1,14 @@
 
 package net.mcreator.betamodalpha.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.Rarity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
 import net.mcreator.betamodalpha.BetamodAlphaModElements;
 
 @BetamodAlphaModElements.ModElement.Tag

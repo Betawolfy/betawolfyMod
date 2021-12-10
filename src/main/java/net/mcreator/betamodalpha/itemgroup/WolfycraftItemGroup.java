@@ -1,6 +1,12 @@
 
 package net.mcreator.betamodalpha.itemgroup;
 
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+
 import net.mcreator.betamodalpha.item.WolfiteIngotItem;
 import net.mcreator.betamodalpha.BetamodAlphaModElements;
 

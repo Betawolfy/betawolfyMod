@@ -6,9 +6,12 @@ license="Academic Free License v3.0"
 modId="betamod_alpha"
 version="1.0.0"
 displayName="Betamod alpha"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="VincentMARAIS, MCreator"
+credits="Created using mod maker MCreator"
+displayURL="https://gitlab.com/betawolfy/wolfymod"
+authors="betawolfy"
+description='''
+Version alpha du mod Wolfycraft
+'''
 
 [[dependencies.betamod_alpha]]
     modId="minecraft"

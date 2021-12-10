@@ -1,5 +1,12 @@
 package net.mcreator.betamodalpha.procedures;
 
+import net.minecraft.world.World;
+import net.minecraft.world.IWorld;
+import net.minecraft.world.Explosion;
+import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.entity.Entity;
+
 import net.mcreator.betamodalpha.BetamodAlphaMod;
 
 import java.util.Map;
