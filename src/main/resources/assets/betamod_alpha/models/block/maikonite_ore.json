@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "betamod_alpha:blocks/maikonite_ore",
+    "particle": "betamod_alpha:blocks/maikonite_ore"
+  }
+}

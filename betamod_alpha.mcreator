@@ -306,33 +306,218 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wolfycraft"
+    },
+    {
+      "name": "Maikonite",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maikonite",
+      "path": "~/Maikonite"
+    },
+    {
+      "name": "MaikoniteOre",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maikonite_ore",
+      "path": "~/Maikonite"
+    },
+    {
+      "name": "MaikoniteBlock",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maikonite_block",
+      "path": "~/Maikonite"
+    },
+    {
+      "name": "MaikoniteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maikonite_ore_block_recipe",
+      "path": "~/Maikonite"
+    },
+    {
+      "name": "MaikoniteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maikonite_block_ore_recipe",
+      "path": "~/Maikonite"
+    },
+    {
+      "name": "MaikoniteOreSmelting",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maikonite_ore_smelting",
+      "path": "~/Maikonite"
+    },
+    {
+      "name": "Alpharite",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpharite",
+      "path": "~/alpharite"
+    },
+    {
+      "name": "AlphariteOre",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpharite_ore",
+      "path": "~/alpharite"
+    },
+    {
+      "name": "AlphariteBlock",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpharite_block",
+      "path": "~/alpharite"
+    },
+    {
+      "name": "AlphariteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpharite_ore_block_recipe",
+      "path": "~/alpharite"
+    },
+    {
+      "name": "AlphariteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpharite_block_ore_recipe",
+      "path": "~/alpharite"
+    },
+    {
+      "name": "AlphariteOreSmelting",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpharite_ore_smelting",
+      "path": "~/alpharite"
+    },
+    {
+      "name": "TestyiumDust",
+      "type": "item",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testyium_dust",
+      "path": "~/testyium"
+    },
+    {
+      "name": "TestyiumOre",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testyium_ore",
+      "path": "~/testyium"
+    },
+    {
+      "name": "TestyiumBlock",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testyium_block",
+      "path": "~/testyium"
+    },
+    {
+      "name": "TestyiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testyium_ore_block_recipe",
+      "path": "~/testyium"
+    },
+    {
+      "name": "TestyiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testyium_block_ore_recipe",
+      "path": "~/testyium"
+    },
+    {
+      "name": "TestyiumOreSmelting",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testyium_ore_smelting",
+      "path": "~/testyium"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.betamod_alpha.maikonite": "Maikonite",
+      "item.betamod_alpha.alpharite": "Alpharite",
       "block.betamod_alpha.wolfite_block": "Block of Wolfite",
       "item.betamod_alpha.wolfite_axe": "Wolfite Axe",
       "block.betamod_alpha.wolfite_ore": "Wolfite Ore",
       "block.betamod_alpha.is_that_a_mineslayer_reference": "Is That A Mineslayer Reference",
+      "block.betamod_alpha.testyium_ore": "Testyium Ore",
       "item.betamod_alpha.bowl_of_riz": "Bowl Of Riz",
       "item.betamod_alpha.fries": "Fries",
       "itemGroup.tabwolfycraft": "Wolfycraft",
       "item.betamod_alpha.wolfite_hoe": "Wolfite Hoe",
       "item.betamod_alpha.wolfite_shovel": "Wolfite Shovel",
+      "block.betamod_alpha.alpharite_block": "Block of Alpharite",
+      "item.betamod_alpha.testyium_dust": "Testyium",
+      "block.betamod_alpha.maikonite_block": "Block of Maikonite",
       "item.betamod_alpha.wolfite_pickaxe": "Wolfite Pickaxe",
+      "block.betamod_alpha.alpharite_ore": "Alpharite Ore",
       "item.betamod_alpha.wolfite_ingot": "Wolfite",
+      "block.betamod_alpha.maikonite_ore": "Maikonite Ore",
+      "block.betamod_alpha.testyium_block": "Block of Testyium",
       "item.betamod_alpha.wolfite_sword": "Wolfite Sword"
     }
   },
   "foldersRoot": {
     "name": "~",
     "children": [
-      {
-        "name": "Hainuium",
-        "children": []
-      },
       {
         "name": "Maikonite",
         "children": []
