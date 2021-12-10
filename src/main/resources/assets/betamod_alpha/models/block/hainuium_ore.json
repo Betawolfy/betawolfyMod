@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "betamod_alpha:blocks/hainuium_ore",
-    "particle": "betamod_alpha:blocks/hainuium_ore"
-  }
-}

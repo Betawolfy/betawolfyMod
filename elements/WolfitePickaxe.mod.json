@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "wolfite_pickaxe",
+    "texture": "wolfytepickaxe",
     "customModelName": "Normal",
     "name": "Wolfite Pickaxe",
     "specialInfo": [],
@@ -16,7 +16,7 @@
     "attackSpeed": 1.0,
     "enchantability": 28,
     "damageVsEntity": 4.0,
-    "usageCount": 660,
+    "usageCount": 4096,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [

@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "betamod_alpha:blocks/alphite_ore_block",
-    "particle": "betamod_alpha:blocks/alphite_ore_block"
-  }
-}

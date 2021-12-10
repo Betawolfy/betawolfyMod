@@ -15,7 +15,7 @@ public class WolfitePickaxeItem extends BetamodAlphaModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new PickaxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 660;
+				return 4096;
 			}
 
 			public float getEfficiency() {

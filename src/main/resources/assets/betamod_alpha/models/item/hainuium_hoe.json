@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "betamod_alpha:items/hainuium_hoe"
-  }
-}
